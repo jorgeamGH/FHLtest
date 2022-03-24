@@ -1,0 +1,24 @@
+.taskNameInput {
+  align-self: center;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.cardIcons {
+  margin-top: 10px;
+  justify-content: space-between;
+  align-self: center;
+}
+
+.cardIcon {
+  color: rgb(160, 156, 156);
+  margin: 0 10px;
+}
+
+.cardIcon:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5em;
+}
+
+.save {
+  margin-top: 30px;
+  align-self: center;
+}
+
+.addIcon {
+  align-self: center;
+  background-color: rgb(120, 94, 180);
+  color: white;
+}
+
+.addIcon:hover {
+  cursor: pointer;
+}
